@@ -8,7 +8,7 @@ The CEO would like to know the time series revenue data for 2011 only and in mon
 The CMO is interested in viewing the top 10 countries generating the highest revenue with the highest quantities, and the United Kingdom is to be excluded. 
 The clustered Column chart showed the top 10 countries (excluding the United Kingdom) generating the highest revenue, with the quantity sold in descending order. The Netherlands generated the highest revenue, while Norway generated the lowest among the top 10 list. 
 
-The CMO is interested in knowing the top 10 customers by revenue. The top 10 customers are represented in a bar chart. Customer with the customer ID 14646 was the highest, generating 271,614 revenue for the company. 
+The CMO is interested in knowing the top 10 customers by revenue. The top 10 customers are represented in a descending funnel chart. Customer with the customer ID 14646 was the highest, generating 271,614 revenue for the company. 
 
 
 The CEO wanted to see the regions with the highest demand for their products, excluding the United Kingdom, and wanted to view the entire data on a single page.
